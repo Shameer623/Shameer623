@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shameer</h1>
 <h3 align="center">A passionate Java full stack developer from India</h3>
 
-- 🔭 I’m currently working on **Virgin Media O2 project in Cognizant Technology Solutions**
+- 🔭 I’m currently working for **Konami Gaming Inc**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 💬 Ask me about **Java,Springboot,Restful webservices, MySql, React JS**
 
